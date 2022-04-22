@@ -5,7 +5,7 @@ import ExtraTitle from './ExtraTitle';
 
 const Heading = () => {
   return (
-    <header>
+    <header className="headingContainer">
         <Logo />
         <Title />
         <ExtraTitle />

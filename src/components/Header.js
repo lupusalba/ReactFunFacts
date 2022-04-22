@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <h1>Fun facts about React</h1>
+    <h1 className="headingTitle">Fun facts about React</h1>
   )
 }
 

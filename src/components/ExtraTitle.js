@@ -1,9 +1,7 @@
 
 const ExtraTitle = () => {
   return (
-    <nav>
-      <a></a>
-    </nav>
+    <h3 className="extraTitle">React Course - Project 1</h3>
   )
 }
 

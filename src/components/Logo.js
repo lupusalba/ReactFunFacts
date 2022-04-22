@@ -1,9 +1,9 @@
-
+import logoImage from '../logo.svg';
 
 
 const Logo = () => {
   return (
-    <p>Logo</p>
+    <img className="smallLogo" src={logoImage} alt="logo" />
   )
 }
 
